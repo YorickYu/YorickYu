@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<! -- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YorickYu)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YorickYu)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YorickYu)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -34,3 +34,11 @@ Here are some ideas to get you started:
 #### 小朋友，你是否有很多问好？
 
 - 😄 [IHAVEAQUESTION](https://github.com/YorickYu/IHAVEAQUESTION)
+
+---
+
+#### 生产级别电影票务小程序
+
+- /:,@x [wechatminiprogram-ykyc](https://github.com/YorickYu/wechatminiprogram-ykyc)
+
+
