@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YorickYu)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 🔭 一名从事Java开发的iOS程序员，偶尔写写小程序和Vue
 - 🌱 非典型程序员，喜欢运动(游泳、篮球)，爱打游戏(LOL)，热爱嘻哈文化(love&peace)
 
