@@ -41,4 +41,9 @@ Here are some ideas to get you started:
 
 - /:,@x [wechatminiprogram-ykyc](https://github.com/YorickYu/wechatminiprogram-ykyc)
 
+---
+
+#### JPP - Java Promotion Process 计划
+
+- [JPP](https://github.com/YorickYu/JPP)
 
