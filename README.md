@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 - ⚡ [yloopdaed](http://yloopdaed.icu/)
 
-
 ---
 
 #### 小朋友，你是否有很多问好？
@@ -37,9 +36,13 @@ Here are some ideas to get you started:
 
 ---
 
-#### 生产级别电影票务小程序
+#### 个人项目\工具
 
-- /:,@x [wechatminiprogram-ykyc](https://github.com/YorickYu/wechatminiprogram-ykyc)
+- /:,@x 生产级别电影票务小程序: [wechatminiprogram-ykyc](https://github.com/YorickYu/wechatminiprogram-ykyc)
+
+- 🦉 微信小程序自定义刷新组件: [代码块](https://developers.weixin.qq.com/s/nuzXJHmv778m)
+
+- 📖 最大化满足你需求的日志系统: [simple_log_project](https://github.com/YorickYu/simple_log_project)
 
 ---
 
